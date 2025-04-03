@@ -1,1 +1,1 @@
-# Fundamentals of Data Science
+# Exploratory Data Analysis
